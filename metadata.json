@@ -1,0 +1,8 @@
+{
+  "name": "AI-POWERED CIVIC ASSISTANT FOR STATE GOVERNMENT POLICIES",
+  "description": "A comprehensive AI-powered assistant designed to help citizens navigate state government policies, welfare schemes, and official regulations with personalized eligibility checks and multilingual support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
